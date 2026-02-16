@@ -5,7 +5,7 @@ The project was completed as part of the COM7023 – Mathematics for Data Scienc
 
 The aim of the study is to demonstrate how core mathematical disciplines — linear algebra, calculus, probability, and statistics — can be applied to real-world population modelling and interpreted for data-driven decision-making.
 
-🎯 Objectives
+# Objectives
 
 The project investigates:
 
